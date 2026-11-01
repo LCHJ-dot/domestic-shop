@@ -1,0 +1,9 @@
+# 不纳入镜像
+data/
+.env
+.git
+.gitignore
+*.log
+node_modules/
+Dockerfile
+.dockerignore

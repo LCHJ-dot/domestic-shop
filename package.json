@@ -1,0 +1,14 @@
+{
+  "name": "domestic-shop",
+  "version": "0.1.0",
+  "description": "国内电商站 MVP：商品/订单/微信支付V3/支付宝 集成（零依赖，Node 内置模块）",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
